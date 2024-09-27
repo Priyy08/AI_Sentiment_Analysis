@@ -3,9 +3,11 @@ import requests
 import matplotlib.pyplot as plt
 import sqlite3
 
+API_TOKEN = os.getenv("HUGGING_FACE_API_TOKEN")
+
 # Set Hugging Face API parameters
 API_URL = "https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment-latest"
-headers = {"Authorization": "Bearer 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"}  # Replace with your actual token
+headers = {"Authorization": "Bearer {API_TOKEN}"}  # Replace with your actual token
 
 # Create or connect to SQLite database
 conn = sqlite3.connect('sentiment_analysis.db')

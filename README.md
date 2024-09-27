@@ -1,6 +1,11 @@
 # AI Sentiment Analysis
 It is an AI Powered Sentiment Analysis tool which can give the overall sentiment of your inputted text along with interactive Plots and Charts.
 
+# Deployed Live on Cloud Using HUggingface Spaces(click below link to test the project):
+```bash
+https://huggingface.co/spaces/prii8/AI_Visual_Sentimental_Analysis
+```
+
 Overview:
 
 This project is a Sentiment Analysis application built using Python's Streamlit framework. It leverages the Hugging Face API to analyze the sentiment of input text, categorizing it as positive, negative, or neutral. The application also visualizes the sentiment scores using various plots.

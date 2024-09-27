@@ -1,7 +1,7 @@
 # AI Sentiment Analysis
 It is an AI Powered Sentiment Analysis tool which can give the overall sentiment of your inputted text along with interactive Plots and Charts.
 
-# Deployed Live on Cloud Using HUggingface Spaces(click below link to test the project):
+-> Deployed Live on Cloud Using Huggingface Spaces(click below link to test the project):
 ```bash
 https://huggingface.co/spaces/prii8/AI_Visual_Sentimental_Analysis
 ```

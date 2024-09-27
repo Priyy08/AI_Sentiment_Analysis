@@ -5,7 +5,7 @@ It is an AI Powered Sentiment Analysis tool which can give the overall sentiment
 ```bash
 https://huggingface.co/spaces/prii8/AI_Visual_Sentimental_Analysis
 ```
-Note:When you Open the App please wait for 5 - 10 seconds before you write any text into textbox, because in backend the API URL takes some time to initialize,
+Note : When you Open the App please wait for 5 - 10 seconds before you write any text into textbox, because in backend the API URL takes some time to initialize,
 otherwise it will throw an error.
 
 Overview:
